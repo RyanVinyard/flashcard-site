@@ -22,6 +22,11 @@ h3 {
  padding-top: 40px;
 }
 
+.col-md-3:hover {
+  border-color: #00e600;
+  cursor: pointer;
+}
+
 p {
   display: none;
   font-size: 20pt;
