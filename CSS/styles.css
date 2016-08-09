@@ -1,0 +1,17 @@
+h1 {
+  text-align: center;
+  font-size: 48pt;
+}
+
+h2 {
+  font-size: 26pt;
+}
+
+.col-md-3 {
+  margin: 20px;
+  padding: 20px;
+}
+
+p {
+  display: none;
+}
