@@ -5,13 +5,28 @@ h1 {
 
 h2 {
   font-size: 26pt;
+  padding: 20px;
+  text-align: center;
+}
+
+h3 {
+  font-size: 26pt;
 }
 
 .col-md-3 {
-  margin: 20px;
-  padding: 20px;
+ border: 4px solid black;
+ border-radius: 10px;
+ background-color: #99d6ff;
+ min-height: 300px;
+ margin: 20px;
+ padding-top: 40px;
 }
 
 p {
   display: none;
+  font-size: 20pt;
+}
+
+body {
+  background-image: url(http://www.thewallpapers.org/photo/34665/Wood-003.jpg);
 }
